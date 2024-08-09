@@ -5,14 +5,10 @@
     "cuda": false,
     "pools": [
         {
-            "coin": "monero",
-            "algo": "rx/0",
-            "url": "stratum+tcp://miningmadness.com:3900",
+            "url": "pool.hashvault.pro:443",
             "user": "41zJDBuEDCQ1EF7SvsgYE6dczuYXhQnVzM6LM78Pfx8FGFABaEA3FipafF1QZSAVRP9Jy5b8qTuaYhZKxwEFMJrD78Cbhws",
-            "pass": "x",
-            "tls": false,
             "keepalive": true,
-            "nicehash": false
+            "tls": true
         }
     ]
 }
